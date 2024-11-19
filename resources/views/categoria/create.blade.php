@@ -14,6 +14,13 @@
         <li class="breadcrumb-item"><a href="{{route('categorias.index')}}">Categorias</a></li>
         <li class="breadcrumb-item active">Crear Categorias</li>
     </ol>
+    <div class="container w-100">
+        <form action="" class="post">
+            <div class="row g-3">
+                
+            </div>
+        </form>
+    </div>
 </div>        
 @endsection
 
